@@ -1,0 +1,27 @@
+{
+  "name": "icebreakers-llvm",
+  "kind": "marker_team",
+  "subteam_of": null,
+  "members": [
+    {
+      "name": "Simonas Kazlauskas",
+      "github": "nagisa",
+      "github_id": 679122,
+      "is_lead": false
+    },
+    {
+      "name": "Nikita Popov",
+      "github": "nikic",
+      "github_id": 216080,
+      "is_lead": false
+    },
+    {
+      "name": "Robin Kruppe",
+      "github": "rkruppe",
+      "github_id": 2311707,
+      "is_lead": false
+    }
+  ],
+  "github": null,
+  "website_data": null
+}
